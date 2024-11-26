@@ -7,8 +7,5 @@
         "distDir": "_site"
       }
     }
-  ],
-  "scripts": {
-    "build": "bundle install && jekyll build"
-  }
+  ]
 }
